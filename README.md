@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @alhaos
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Powershell
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me alhaos@gmail.com
+# Liks
 
-<!---
-alhaos/alhaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[REST API на Golang](https://youtube.com/playlist?list=PLehOyJfJkFkJ5m37b4oWh783yzVlHdnUH)
+Very nice cource about
+
+[Упроки Golang](https://youtube.com/playlist?list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl)
+
+[Введение в теорию автоматов и вычислений](https://youtube.com/playlist?list=PLUfHxBkkFMSduLNhwM1my_7kOF00GEdnf)
