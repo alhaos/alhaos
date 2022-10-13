@@ -8,3 +8,6 @@ Very nice cource about
 [Введение в теорию автоматов и вычислений](https://youtube.com/playlist?list=PLUfHxBkkFMSduLNhwM1my_7kOF00GEdnf)
 
 [Go database/sql tutorial](http://go-database-sql.org/)
+
+(Разработка веб-сервисов на Golang)[https://github.com/tyz910/golang-webservices]
+интересны репозиторий с учебными материалами
