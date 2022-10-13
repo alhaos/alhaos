@@ -9,5 +9,5 @@ Very nice cource about
 
 [Go database/sql tutorial](http://go-database-sql.org/)
 
-(Разработка веб-сервисов на Golang)[https://github.com/tyz910/golang-webservices]
+[Разработка веб-сервисов на Golang](https://github.com/tyz910/golang-webservices)
 интересны репозиторий с учебными материалами
