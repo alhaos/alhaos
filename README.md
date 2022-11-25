@@ -14,3 +14,5 @@ Very nice cource about
 
 [Разработка веб-сервисов на Golang](https://github.com/tyz910/golang-webservices)
 интересны репозиторий с учебными материалами
+
+[pester detiled example video](https://www.youtube.com/watch?v=ORgJCAhigs8&ab_channel=TrevorSullivan)
