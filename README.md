@@ -16,3 +16,9 @@ Very nice cource about
 интересны репозиторий с учебными материалами
 
 [pester detiled example video](https://www.youtube.com/watch?v=ORgJCAhigs8&ab_channel=TrevorSullivan)
+
+You can use $PSDefaultParameterValues to make module imports -Force by default, so sort of a dev-mode switch:
+
+``` powershell
+$PSDefaultParameterValues."Import-Module:Force" = $true
+``` 
