@@ -22,3 +22,5 @@ You can use $PSDefaultParameterValues to make module imports -Force by default, 
 ``` powershell
 $PSDefaultParameterValues."Import-Module:Force" = $true
 ``` 
+
+[Функциональные  опции в Go: реализация шаблона опций в Golang](https://habr.com/ru/post/575316/)
