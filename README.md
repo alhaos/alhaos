@@ -28,3 +28,5 @@ $PSDefaultParameterValues."Import-Module:Force" = $true
 [Паттерны проектирования с примерами на Golang](https://github.com/AlexanderGrom/go-patterns)
 
 [Golang | Паттерны проектирования](https://www.youtube.com/playlist?list=PLxj7Nz8YYkVW5KHnsb9qWUDP2eD1TXl1N)
+
+[Блог о языке программирования Go](https://golang-blog.blogspot.com/2019/01/go-slices-literal.html)
