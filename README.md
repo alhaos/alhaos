@@ -26,3 +26,5 @@ $PSDefaultParameterValues."Import-Module:Force" = $true
 [Функциональные  опции в Go: реализация шаблона опций в Golang](https://habr.com/ru/post/575316/)
 
 [Паттерны проектирования с примерами на Golang](https://github.com/AlexanderGrom/go-patterns)
+
+[Golang | Паттерны проектирования](https://www.youtube.com/playlist?list=PLxj7Nz8YYkVW5KHnsb9qWUDP2eD1TXl1N)
