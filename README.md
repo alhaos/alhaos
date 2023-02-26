@@ -32,3 +32,15 @@ $PSDefaultParameterValues."Import-Module:Force" = $true
 [Блог о языке программирования Go](https://golang-blog.blogspot.com/2019/01/go-slices-literal.html)
 
 [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+
+[Awesome go](https://github.com/avelino/awesome-go)
+You can call it the encyclopedia of Go programming language. Just bookmark it to come back to whenever you need something in Go. It is a massive curated list of awesome Go frameworks, libraries and software
+
+[Go kit](https://github.com/go-kit/kit)
+Go kit is a programming toolkit for building microservices in Go. Go kit solves common problems in distributed systems and application architecture so you can focus on delivering business value.
+
+[Go Design patterns](https://github.com/tmrts/go-patterns)
+This repo contains a curated collection of idiomatic design & application patterns for Go language. You can find patterns like: creational patterns, structural patterns, behavioral patterns, concurrency patterns, messaging patterns.
+
+[Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
+Go is a good language for learning test-driven development as Go's standard library provides a built-in testing package. This repo has a list of Go fundamentals with examples of test-driven code implementations.
