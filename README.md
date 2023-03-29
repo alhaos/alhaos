@@ -44,3 +44,6 @@ This repo contains a curated collection of idiomatic design & application patter
 
 [Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
 Go is a good language for learning test-driven development as Go's standard library provides a built-in testing package. This repo has a list of Go fundamentals with examples of test-driven code implementations.
+
+[Golang Concurrency Basics](https://youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC)
+
