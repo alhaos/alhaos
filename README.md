@@ -47,3 +47,8 @@ Go is a good language for learning test-driven development as Go's standard libr
 
 [Golang Concurrency Basics](https://youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC)
 
+[Computer Science Center](https://www.lektorium.tv/university/2932)
+Computer Science Center — это совместная инициатива Computer Science клуба при ПОМИ РАН, компании JetBrains и Школы анализа данных Яндекса. Центр предлагает двух- или трёхлетние вечерние очные курсы студентам из Санкт-Петербурга и Новосибирска по одному из трёх направлений: анализ данных, разработка ПО или современная информатика. Для тех, кто не может учиться очно, Центр готовит онлайн-курсы по математике и программированию.
+
+
+
