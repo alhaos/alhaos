@@ -64,3 +64,6 @@ Computer Science Center — это совместная инициатива Com
 [Язык программирования C/C++](https://www.youtube.com/watch?v=d971m08_5Zo&list=PLA0M1Bcd0w8w-mqVmBjt-2J8Z1gVmPZVz&ab_channel=selfedu)
 
 [flex box course](https://youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW&si=_bqkLZ9bbwPv2SJq)
+
+change 1
+
