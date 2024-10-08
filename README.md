@@ -65,5 +65,6 @@ Computer Science Center — это совместная инициатива Com
 
 [flex box course](https://youtube.com/playlist?list=PLNkWIWHIRwMG0EUBS8rvTRVNL9IcxcawW&si=_bqkLZ9bbwPv2SJq)
 
+[grid cource](https://www.youtube.com/playlist?list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD)
 change 1
 
