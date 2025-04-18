@@ -72,3 +72,7 @@ Computer Science Center — это совместная инициатива Com
 [react](https://www.youtube.com/watch?v=kz23xxukY5s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
 
 [nginx](https://www.youtube.com/watch?v=dHsv8EnhSgQ&list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc&ab_channel=GeekCode)
+
+
+[Full Modern React Tutorial - Video cource](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+
