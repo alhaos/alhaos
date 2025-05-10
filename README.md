@@ -76,3 +76,5 @@ Computer Science Center — это совместная инициатива Com
 [Full Modern React Tutorial - Video cource](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 [Learn React - interactive cource](https://scrimba.com/learn-react-c0e)
+
+[REST API на Golang](https://www.youtube.com/watch?v=1LFbmWk7NLQ&list=PLbTTxxr-hMmyFAvyn7DeOgNRN8BQdjFm8&ab_channel=MaksimZhashkevych)
