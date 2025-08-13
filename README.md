@@ -78,3 +78,8 @@ Computer Science Center — это совместная инициатива Com
 [Learn React - interactive cource](https://scrimba.com/learn-react-c0e)
 
 [REST API на Golang](https://www.youtube.com/watch?v=1LFbmWk7NLQ&list=PLbTTxxr-hMmyFAvyn7DeOgNRN8BQdjFm8&ab_channel=MaksimZhashkevych)
+
+[Какие-то уроки [Frontend]]https://www.youtube.com/@kakieToYroki/featured
+
+- Уроки по HTML, CSS, JavaScript, React и Typescript.
+В будущем планируется создание уроков по Redux, RTK, NodeJS, Docker, Unit Test.
