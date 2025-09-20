@@ -81,5 +81,7 @@ Computer Science Center — это совместная инициатива Com
 
 [Какие-то уроки Frontend](https://www.youtube.com/@kakieToYroki/featured)
 
+[Figma](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXUJfMPcm1ezfcYSOHNNCZ4)
+
 - Уроки по HTML, CSS, JavaScript, React и Typescript.
 В будущем планируется создание уроков по Redux, RTK, NodeJS, Docker, Unit Test.
