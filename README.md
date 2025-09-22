@@ -83,6 +83,9 @@ Computer Science Center — это совместная инициатива Com
 
 [Figma](https://www.youtube.com/playlist?list=PL0lO_mIqDDFXUJfMPcm1ezfcYSOHNNCZ4)
 
-[Куча примеров на реакте](https://react-slick.neostack.com/docs/example)
+[React Slick](https://react-slick.neostack.com/docs/example)
+
+[Website Components](https://www.youtube.com/playlist?list=PLdX_SmiGcs0bNO_Xpw1ihINIF15DzzQPx)
+
 - Уроки по HTML, CSS, JavaScript, React и Typescript.
 В будущем планируется создание уроков по Redux, RTK, NodeJS, Docker, Unit Test.
