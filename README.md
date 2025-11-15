@@ -89,3 +89,6 @@ Computer Science Center — это совместная инициатива Com
 
 - Уроки по HTML, CSS, JavaScript, React и Typescript.
 В будущем планируется создание уроков по Redux, RTK, NodeJS, Docker, Unit Test.
+
+[TypeScript для современной разработки]{https://rutube.ru/plst/335050/}
+пожно полсушать, есть даже дельно,
