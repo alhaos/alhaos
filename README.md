@@ -92,3 +92,5 @@ Computer Science Center — это совместная инициатива Com
 
 [TypeScript для современной разработки]{https://rutube.ru/plst/335050/}
 пожно полсушать, есть даже дельно,
+
+[SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
