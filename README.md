@@ -94,3 +94,6 @@ Computer Science Center — это совместная инициатива Com
 пожно полсушать, есть даже дельно,
 
 [SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
+
+[Public apis](https://github.com/public-apis/public-apis)
+Содержит публичные API
