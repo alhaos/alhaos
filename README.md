@@ -95,5 +95,8 @@ Computer Science Center — это совместная инициатива Com
 
 [SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions)
 
-[Public apis](https://github.com/public-apis/public-apis)
-Содержит публичные API
+[github public-apis](https://github.com/public-apis/public-apis)
+Репозиторий содержит публичные API
+
+[github system-design-primer](https://github.com/donnemartin/system-design-primer)
+Репозиторий содержит материалы по system design
