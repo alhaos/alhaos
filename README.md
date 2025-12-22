@@ -100,3 +100,5 @@ Computer Science Center — это совместная инициатива Com
 
 [github system-design-primer](https://github.com/donnemartin/system-design-primer)
 Репозиторий содержит материалы по system design
+
+[setup v2XRayA manual](https://www.youtube.com/watch?v=3y8S3gyyArQ)
