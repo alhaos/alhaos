@@ -104,3 +104,5 @@ Computer Science Center — это совместная инициатива Com
 [setup v2XRayA manual](https://www.youtube.com/watch?v=3y8S3gyyArQ)
 
 [TinyGo and Pico](https://www.youtube.com/playlist?list=PLITRMvsGGkUQwE4r_5RhggH0R6Vmkh4UC)
+
+[Администрирование Linux](https://www.youtube.com/watch?v=K8W4VUJQdX4&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
