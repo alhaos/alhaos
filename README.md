@@ -106,3 +106,5 @@ Computer Science Center — это совместная инициатива Com
 [TinyGo and Pico](https://www.youtube.com/playlist?list=PLITRMvsGGkUQwE4r_5RhggH0R6Vmkh4UC)
 
 [Администрирование Linux](https://www.youtube.com/watch?v=K8W4VUJQdX4&list=PLYl91BhaOf-kkXWweBzgOw555he6S7SUs)
+
+[Динамическое программирование 2018-2019 (улучшеный курс)](https://www.youtube.com/playlist?list=PLUfHxBkkFMScqPOn8J0aHvd48wykQNcWS)
