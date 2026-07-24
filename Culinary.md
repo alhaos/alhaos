@@ -18,3 +18,9 @@ Cras posuere nisl ut ex posuere mattis. Phasellus massa enim, efficitur sed risu
 
 > [!danger]- Свернутый по умолчанию блок опасности
 > Этот блок откроется только при нажатии на него.
+
+
+graph TD
+    A[Старт] --> B{Файл найден?}
+    B -- Да --> C[Открыть файл]
+    B -- Нет --> D[Показать ошибку]
