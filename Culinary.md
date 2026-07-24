@@ -1,5 +1,4 @@
-> [!WARNING] Hello world
-
-[Бесстаршная кухня](https://www.youtube.com/@cuisinesanspeur)
-
-Интересный канал про кулинарию.
+> [!WARNING]
+> ### АНТИВИРУСЫ
+> 
+> WinDivert может вызвать реакцию антивируса...
