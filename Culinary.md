@@ -12,3 +12,9 @@ Maecenas a leo purus. Aenean in nulla auctor, porttitor eros non, gravida eros. 
 Quisque faucibus dapibus ultricies. Maecenas iaculis tellus id aliquet pharetra. Suspendisse pretium aliquam orci, quis tempor est sollicitudin eu. Maecenas feugiat egestas lectus, eget egestas leo egestas in. Etiam sit amet odio ac turpis tempor tempus vitae at mi. Sed nec ligula eget massa tristique euismod in ac lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce at velit ac leo ultrices tincidunt. Duis ut mattis tortor.
 
 Cras posuere nisl ut ex posuere mattis. Phasellus massa enim, efficitur sed risus in, faucibus mattis metus. Suspendisse eu velit sit amet metus malesuada suscipit. Integer vehicula, risus et molestie semper, nunc est auctor risus, et congue nibh odio ut augue. Morbi interdum scelerisque quam pharetra sollicitudin. Integer id laoreet risus. Donec quis dignissim sem. Ut quis elit non diam vulputate cursus eu ac metus. Vestibulum vestibulum vel ipsum et commodo. Curabitur sed porttitor nunc.
+
+> [!info] Произвольный заголовок блока
+> Текст внутри информационного блока.
+
+> [!danger]- Свернутый по умолчанию блок опасности
+> Этот блок откроется только при нажатии на него.
